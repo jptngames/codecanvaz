@@ -1,4 +1,3 @@
-
 # CodeCanvaZ
 
 **CodeCanvaZ** é um módulo Python simples que oferece uma classe `Styles` para facilitar a formatação de textos em terminais utilizando códigos de escape ANSI. Com ele, você pode facilmente adicionar cores de fundo, cores de texto, negrito e sublinhado às suas saídas no terminal.
@@ -9,7 +8,7 @@ A versão atual do projeto é **1.0.0**.
 
 ## Instalação
 
-Não há necessidade de instalação adicional. Basta copiar o arquivo `codecanvaz.py` para o seu projeto e importar a classe `Styles` no seu código.
+Não há necessidade de instalação adicional. Basta copiar o arquivo [codecanvaz.py](https://github.com/Jeanz1nn/codecanvaz/blob/main/codecanvaz.py) para o seu projeto e importar a classe `Styles` no seu código.
 
 ## Uso
 
